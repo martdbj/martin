@@ -29,3 +29,6 @@ caption {
     color: red;
     font-weight: bolder;
 }
+#home {
+    float: right;
+}

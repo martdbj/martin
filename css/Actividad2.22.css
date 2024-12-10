@@ -61,3 +61,6 @@ table tr:last-child {
     background-color: yellow;
     
 }
+#home {
+    float: right;
+}

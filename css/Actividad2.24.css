@@ -1,17 +1,18 @@
-#izq {
+#der {
     float: right;
     border: 3px dotted black;
     background-color: gray;
-    padding-left: 70px;
+    padding-left: 3%;
     padding-bottom: 30px;
     padding-top: 10px;
     padding-right: 10px;
+    
 }
-#der {
+#izq {
     float: left;
     border: 3px dotted black;
     background-color: gray;
-    padding-right: 70px;
+    padding-right: 3%;
     padding-bottom: 30px;
     padding-top: 10px;
     padding-left: 10px;
@@ -28,7 +29,14 @@
     position: fixed;
     width: 100%;
     left: 0%;
+    bottom: 0px;
 }
 #home {
     float: right;
+}
+@media (max-width: 320px) {
+    #der,#izq {
+        float: none;
+        text-align: center;
+    }
 }

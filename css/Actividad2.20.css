@@ -1,0 +1,23 @@
+h1 {
+    background-color: blue;
+}
+h2 {
+    background-color: green;
+}
+h3 {
+    background-color: yellow;
+    font-style: italic;
+}
+h4 {
+    background-color: tomato;
+}
+h5 {
+    background-color: red;
+}
+h5:last-of-type {
+    background-color: blue;
+}
+p {
+    text-align: center;
+    font-family: Calibri;
+}

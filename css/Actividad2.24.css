@@ -16,6 +16,7 @@
     padding-bottom: 30px;
     padding-top: 10px;
     padding-left: 10px;
+    left: 0%;
 }
 #parrafo {
     padding: 60px;
@@ -38,5 +39,6 @@
     #der,#izq {
         float: none;
         text-align: center;
+        left: 0%;
     }
 }

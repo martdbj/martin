@@ -1,6 +1,7 @@
 #divPrimario {
     display: flex;
     justify-content: space-between;
+    j
 }
 #der {
 
@@ -9,7 +10,7 @@
     padding-left: 3%;
     padding-bottom: 30px;
     padding-top: 10px;
-    padding-right: 10px;
+    padding-right: 5%;
     font-size: 1.5em;
     
     
@@ -19,9 +20,9 @@
     border: 3px dotted black;
     background-color: gray;
     padding-right: 3%;
-    padding-bottom: 30px;
+    padding-bottom: 6%;
     padding-top: 10px;
-    padding-left: 10px;
+    padding-left: 5%;
     font-size: 1.5em;
     
 }
